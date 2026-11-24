@@ -1,0 +1,28 @@
+{
+  "claims": [
+    {
+      "id": 1,
+      "claim": "Apple launches a new product today",
+      "verdict": "Verified",
+      "explanation": "Apple frequently announces and launches new products through special tech events and press releases."
+    },
+    {
+      "id": 2,
+      "claim": "Drinking boiling water cures all viral infections instantly",
+      "verdict": "False",
+      "explanation": "Medical health organizations confirm that while hydration is vital, boiling water does not cure viral infections instantly."
+    },
+    {
+      "id": 3,
+      "claim": "Free electricity announced for all citizens starting tomorrow",
+      "verdict": "Misleading",
+      "explanation": "No official nationwide policy has been passed confirming unconditional free electricity for all citizens without specific subsidy slabs."
+    },
+    {
+      "id": 4,
+      "claim": "todays gold rate 156240",
+      "verdict": "Unverified",
+      "explanation": "Live commodity market rates fluctuate continuously. Please verify with official bullion market sources or certified jewelers."
+    }
+  ]
+}
